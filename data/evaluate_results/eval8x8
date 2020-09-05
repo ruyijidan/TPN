@@ -1,0 +1,10 @@
+{
+    "Num of empty videos": "19741",
+    "Num of corrupted videos": "19741",
+    "Max num of clips in a video": "30",
+    "Min num of clips in a video": "0",
+    "Clip1 accuracy": ": 45.00 percent (9/20)",
+    "Clip accuracy": ": 61.33 percent (368/600)",
+    "top-1 accuracy": "0.08096756237032539",
+    "top-5 accuracy": "0.09108850766661605"
+}

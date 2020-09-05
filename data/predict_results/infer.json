@@ -1,0 +1,14 @@
+{
+    "video:0": {
+        "class_top:1": "juggling_balls",
+        "probability_top:1": "0.9999732971191406",
+        "class_top:2": "contact_juggling",
+        "probability_top:2": "1.0550400475040078e-05",
+        "class_top:3": "throwing_ball",
+        "probability_top:3": "7.112479579518549e-06",
+        "class_top:4": "dribbling_basketball",
+        "probability_top:4": "3.988107437180588e-06",
+        "class_top:5": "juggling_soccer_ball",
+        "probability_top:5": "1.3836130392519408e-06"
+    }
+}

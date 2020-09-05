@@ -1,0 +1,3 @@
+paddlepaddle-gpu
+pandas
+h5py
