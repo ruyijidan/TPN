@@ -239,9 +239,10 @@ def evaluate_infer_results(results, num_classes, num_test_clips, labels_list, di
 
     topk = 5
     json_file = OrderedDict()
-    one_flie = OrderedDict()
-    ii = 0
+    
     for vid in probs.keys():
+        one_flie = OrderedDict()
+        ii = 0
         pred = probs[vid]
         sorted_inds = np.argsort(pred)[::-1]
         topk_inds = sorted_inds[:topk]
